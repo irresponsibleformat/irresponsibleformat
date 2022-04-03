@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irresponsibleformat
-- 👀 I’m interested in machine learning, security
+- 👀 I’m interested in machine learning, security, Python
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
