@@ -3,6 +3,7 @@
 ### About Myself
 
 I'm a wannabe **low-level game dev**.
+
 Currently advancing in **Rust**, since I prefer perfection over accessibilty.
 
 I'm kind of a security/privacy paranoid, so my intro ends here. Bye!
