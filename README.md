@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @irresponsibleformat
-- 👀 I’m interested in [making a game engine]
-- 🌱 I’m currently learning OpenGL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m *@irresponsibleformat*
+
+### About Myself
+
+I'm a wannabe **low-level game dev**.
+Currently advancing in **Rust**, since I prefer perfection over accessibilty.
+
+I'm kind of a security/privacy paranoid, so my intro ends here. Bye!
 
 <!---
 irresponsibleformat/irresponsibleformat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
