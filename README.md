@@ -6,7 +6,7 @@ I'm a wannabe **low-level game dev**.
 
 Currently advancing in **Rust**, since I prefer perfection.
 
-I'm kind of a security/privacy paranoid, so my intro ends here. Bye!
+I'm currently not taking any messages, so my intro ends here. Bye!
 
 <!---
 irresponsibleformat/irresponsibleformat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
